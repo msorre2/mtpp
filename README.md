@@ -1,3 +1,3 @@
 # mtpp
 
-This repo has been moved to Gitlab.
+This repository has been moved to GitLab. :D
